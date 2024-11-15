@@ -4,6 +4,8 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using static System.Net.Mime.MediaTypeNames;
+using Capa_Entidad;
+using Capa_Negocio;
 
 namespace Billetera_Smart.Controllers
 {
@@ -14,24 +16,18 @@ namespace Billetera_Smart.Controllers
             return View();
         }
 
-        public ActionResult About()
+        public ActionResult Usuarios()
         {
-            ViewBag.Message = "Your application description page.";
-
             return View();
         }
 
-        public ActionResult Contact()
+        public JsonResult ListarUsuarios()
         {
-            ViewBag.Message = "Your contact page.";
+            List<Tbl_Usuarios> oLista = new List<Tbl_Usuarios>();
 
-            return View();
-        }
+            oLista = new CN_Tbl_Usuarios().Listar();
 
-          public ActionResult TestPage()
-        {
-
-            return View();
+            return Json(oLista,JsonRequestBehavior.AllowGet);
         }
 
     }

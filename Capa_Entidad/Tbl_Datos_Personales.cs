@@ -17,6 +17,7 @@ namespace Capa_Entidad
 	DNI VARCHAR (20) NOT NULL,
 	Genero INT REFERENCES Cls_Catalogos (Id_Catalogo),
 	Nacionalidad INT REFERENCES Cls_Catalogos (Id_Catalogo),
+	Estado_Civil INT REFERENCES Cls_Catalogos (Id_Catalogo),
 	Fecha_Creacion DATETIME NOT NULL,
 	Fecha_Modificacion DATETIME NOT NULL,
 	Id_Estado INT REFERENCES Cls_Estados (Id_Estado)
@@ -32,6 +33,7 @@ namespace Capa_Entidad
 		public string DNI {  get; set; }
 		public Cls_Catalogos Genero { get; set;  }
 		public Cls_Catalogos Nacionalidad { get; set; }
+		public Cls_Catalogos Estado_Civl { get; set; }
 		public DateTime Fecha_Creacion {  get; set; }
 		public DateTime Fecha_Modificacion	{ get; set; }
 		public Cls_Estados Id_Estado { get; set; }

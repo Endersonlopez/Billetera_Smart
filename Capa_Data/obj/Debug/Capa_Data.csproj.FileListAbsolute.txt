@@ -1,0 +1,9 @@
+C:\Users\Enderson\Source\Repos\Endersonlopez\Billetera_Smart\Capa_Data\bin\Debug\Capa_Data.dll
+C:\Users\Enderson\Source\Repos\Endersonlopez\Billetera_Smart\Capa_Data\bin\Debug\Capa_Data.pdb
+C:\Users\Enderson\Source\Repos\Endersonlopez\Billetera_Smart\Capa_Data\bin\Debug\Capa_Entidad.dll
+C:\Users\Enderson\Source\Repos\Endersonlopez\Billetera_Smart\Capa_Data\bin\Debug\Capa_Entidad.pdb
+C:\Users\Enderson\Source\Repos\Endersonlopez\Billetera_Smart\Capa_Data\obj\Debug\Capa_Data.csproj.AssemblyReference.cache
+C:\Users\Enderson\Source\Repos\Endersonlopez\Billetera_Smart\Capa_Data\obj\Debug\Capa_Data.csproj.CoreCompileInputs.cache
+C:\Users\Enderson\Source\Repos\Endersonlopez\Billetera_Smart\Capa_Data\obj\Debug\Capa_Data.csproj.Up2Date
+C:\Users\Enderson\Source\Repos\Endersonlopez\Billetera_Smart\Capa_Data\obj\Debug\Capa_Data.dll
+C:\Users\Enderson\Source\Repos\Endersonlopez\Billetera_Smart\Capa_Data\obj\Debug\Capa_Data.pdb

@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace Capa_Entidad
 {
-    /*--Tabla de tipos de catalogos
-CREATE TABLE Cls_Tipo_Catalogos
+    /*CREATE TABLE Cls_Tipo_Catalogos
 (
 	Id_Tipo_Catalogo INT PRIMARY KEY IDENTITY (1,1),
 	Tipo_Catalogo VARCHAR (80) NOT NULL,

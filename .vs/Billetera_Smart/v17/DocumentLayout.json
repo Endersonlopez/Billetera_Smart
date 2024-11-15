@@ -1,52 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Documents\\Visual Studio\\Billetera_Smart\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{5FC2D0DF-0ABF-4604-AF42-093E9960689D}|Capa_Entidad\\Capa_Entidad.csproj|e:\\documents\\visual studio\\billetera_smart\\capa_entidad\\transacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FC2D0DF-0ABF-4604-AF42-093E9960689D}|Capa_Entidad\\Capa_Entidad.csproj|solutionrelative:capa_entidad\\transacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FC2D0DF-0ABF-4604-AF42-093E9960689D}|Capa_Entidad\\Capa_Entidad.csproj|e:\\documents\\visual studio\\billetera_smart\\capa_entidad\\tbl_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FC2D0DF-0ABF-4604-AF42-093E9960689D}|Capa_Entidad\\Capa_Entidad.csproj|solutionrelative:capa_entidad\\tbl_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FC2D0DF-0ABF-4604-AF42-093E9960689D}|Capa_Entidad\\Capa_Entidad.csproj|e:\\documents\\visual studio\\billetera_smart\\capa_entidad\\tbl_datos_personales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FC2D0DF-0ABF-4604-AF42-093E9960689D}|Capa_Entidad\\Capa_Entidad.csproj|solutionrelative:capa_entidad\\tbl_datos_personales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FC2D0DF-0ABF-4604-AF42-093E9960689D}|Capa_Entidad\\Capa_Entidad.csproj|e:\\documents\\visual studio\\billetera_smart\\capa_entidad\\tbl_contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FC2D0DF-0ABF-4604-AF42-093E9960689D}|Capa_Entidad\\Capa_Entidad.csproj|solutionrelative:capa_entidad\\tbl_contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FC2D0DF-0ABF-4604-AF42-093E9960689D}|Capa_Entidad\\Capa_Entidad.csproj|e:\\documents\\visual studio\\billetera_smart\\capa_entidad\\cls_tipo_catalogos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FC2D0DF-0ABF-4604-AF42-093E9960689D}|Capa_Entidad\\Capa_Entidad.csproj|solutionrelative:capa_entidad\\cls_tipo_catalogos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FC2D0DF-0ABF-4604-AF42-093E9960689D}|Capa_Entidad\\Capa_Entidad.csproj|e:\\documents\\visual studio\\billetera_smart\\capa_entidad\\cls_estados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FC2D0DF-0ABF-4604-AF42-093E9960689D}|Capa_Entidad\\Capa_Entidad.csproj|solutionrelative:capa_entidad\\cls_estados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FC2D0DF-0ABF-4604-AF42-093E9960689D}|Capa_Entidad\\Capa_Entidad.csproj|e:\\documents\\visual studio\\billetera_smart\\capa_entidad\\cls_catalogos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FC2D0DF-0ABF-4604-AF42-093E9960689D}|Capa_Entidad\\Capa_Entidad.csproj|solutionrelative:capa_entidad\\cls_catalogos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48A3F533-D9CA-427A-895E-37B0B4C75E25}|Billetera_Smart\\Capa_Administrador.csproj|E:\\Documents\\Visual Studio\\Billetera_Smart\\billetera_smart\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48A3F533-D9CA-427A-895E-37B0B4C75E25}|Billetera_Smart\\Capa_Administrador.csproj|solutionrelative:billetera_smart\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48A3F533-D9CA-427A-895E-37B0B4C75E25}|Billetera_Smart\\Capa_Administrador.csproj|e:\\documents\\visual studio\\billetera_smart\\billetera_smart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{48A3F533-D9CA-427A-895E-37B0B4C75E25}|Billetera_Smart\\Capa_Administrador.csproj|solutionrelative:billetera_smart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48A3F533-D9CA-427A-895E-37B0B4C75E25}|Billetera_Smart\\Capa_Administrador.csproj|E:\\Documents\\Visual Studio\\Billetera_Smart\\billetera_smart\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{48A3F533-D9CA-427A-895E-37B0B4C75E25}|Billetera_Smart\\Capa_Administrador.csproj|solutionrelative:billetera_smart\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48A3F533-D9CA-427A-895E-37B0B4C75E25}|Billetera_Smart\\Capa_Administrador.csproj|E:\\Documents\\Visual Studio\\Billetera_Smart\\billetera_smart\\scripts\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{48A3F533-D9CA-427A-895E-37B0B4C75E25}|Billetera_Smart\\Capa_Administrador.csproj|solutionrelative:billetera_smart\\scripts\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\Enderson\\source\\repos\\Endersonlopez\\Billetera_Smart\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -54,8 +9,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -63,149 +22,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Transacciones.cs",
-              "DocumentMoniker": "E:\\Documents\\Visual Studio\\Billetera_Smart\\Capa_Entidad\\Transacciones.cs",
-              "RelativeDocumentMoniker": "Capa_Entidad\\Transacciones.cs",
-              "ToolTip": "E:\\Documents\\Visual Studio\\Billetera_Smart\\Capa_Entidad\\Transacciones.cs",
-              "RelativeToolTip": "Capa_Entidad\\Transacciones.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAA5wBUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T05:24:23.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Tbl_Usuarios.cs",
-              "DocumentMoniker": "E:\\Documents\\Visual Studio\\Billetera_Smart\\Capa_Entidad\\Tbl_Usuarios.cs",
-              "RelativeDocumentMoniker": "Capa_Entidad\\Tbl_Usuarios.cs",
-              "ToolTip": "E:\\Documents\\Visual Studio\\Billetera_Smart\\Capa_Entidad\\Tbl_Usuarios.cs",
-              "RelativeToolTip": "Capa_Entidad\\Tbl_Usuarios.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAiwCAAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T05:19:43.97Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Tbl_Contacto.cs",
-              "DocumentMoniker": "E:\\Documents\\Visual Studio\\Billetera_Smart\\Capa_Entidad\\Tbl_Contacto.cs",
-              "RelativeDocumentMoniker": "Capa_Entidad\\Tbl_Contacto.cs",
-              "ToolTip": "E:\\Documents\\Visual Studio\\Billetera_Smart\\Capa_Entidad\\Tbl_Contacto.cs",
-              "RelativeToolTip": "Capa_Entidad\\Tbl_Contacto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T05:15:55.667Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Tbl_Datos_Personales.cs",
-              "DocumentMoniker": "E:\\Documents\\Visual Studio\\Billetera_Smart\\Capa_Entidad\\Tbl_Datos_Personales.cs",
-              "RelativeDocumentMoniker": "Capa_Entidad\\Tbl_Datos_Personales.cs",
-              "ToolTip": "E:\\Documents\\Visual Studio\\Billetera_Smart\\Capa_Entidad\\Tbl_Datos_Personales.cs",
-              "RelativeToolTip": "Capa_Entidad\\Tbl_Datos_Personales.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T05:04:59.982Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Cls_Catalogos.cs",
-              "DocumentMoniker": "E:\\Documents\\Visual Studio\\Billetera_Smart\\Capa_Entidad\\Cls_Catalogos.cs",
-              "RelativeDocumentMoniker": "Capa_Entidad\\Cls_Catalogos.cs",
-              "ToolTip": "E:\\Documents\\Visual Studio\\Billetera_Smart\\Capa_Entidad\\Cls_Catalogos.cs",
-              "RelativeToolTip": "Capa_Entidad\\Cls_Catalogos.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T05:00:45.594Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Cls_Tipo_Catalogos.cs",
-              "DocumentMoniker": "E:\\Documents\\Visual Studio\\Billetera_Smart\\Capa_Entidad\\Cls_Tipo_Catalogos.cs",
-              "RelativeDocumentMoniker": "Capa_Entidad\\Cls_Tipo_Catalogos.cs",
-              "ToolTip": "E:\\Documents\\Visual Studio\\Billetera_Smart\\Capa_Entidad\\Cls_Tipo_Catalogos.cs",
-              "RelativeToolTip": "Capa_Entidad\\Cls_Tipo_Catalogos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T04:57:08.554Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Cls_Estados.cs",
-              "DocumentMoniker": "E:\\Documents\\Visual Studio\\Billetera_Smart\\Capa_Entidad\\Cls_Estados.cs",
-              "RelativeDocumentMoniker": "Capa_Entidad\\Cls_Estados.cs",
-              "ToolTip": "E:\\Documents\\Visual Studio\\Billetera_Smart\\Capa_Entidad\\Cls_Estados.cs",
-              "RelativeToolTip": "Capa_Entidad\\Cls_Estados.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T04:49:52.923Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BundleConfig.cs",
-              "DocumentMoniker": "E:\\Documents\\Visual Studio\\Billetera_Smart\\Billetera_Smart\\App_Start\\BundleConfig.cs",
-              "RelativeDocumentMoniker": "Billetera_Smart\\App_Start\\BundleConfig.cs",
-              "ToolTip": "E:\\Documents\\Visual Studio\\Billetera_Smart\\Billetera_Smart\\App_Start\\BundleConfig.cs",
-              "RelativeToolTip": "Billetera_Smart\\App_Start\\BundleConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T16:13:24.895Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "scripts.js",
-              "DocumentMoniker": "E:\\Documents\\Visual Studio\\Billetera_Smart\\Billetera_Smart\\Scripts\\scripts.js",
-              "RelativeDocumentMoniker": "Billetera_Smart\\Scripts\\scripts.js",
-              "ToolTip": "E:\\Documents\\Visual Studio\\Billetera_Smart\\Billetera_Smart\\Scripts\\scripts.js",
-              "RelativeToolTip": "Billetera_Smart\\Scripts\\scripts.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-10T16:12:30.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Site.css",
-              "DocumentMoniker": "E:\\Documents\\Visual Studio\\Billetera_Smart\\Billetera_Smart\\Content\\Site.css",
-              "RelativeDocumentMoniker": "Billetera_Smart\\Content\\Site.css",
-              "ToolTip": "E:\\Documents\\Visual Studio\\Billetera_Smart\\Billetera_Smart\\Content\\Site.css",
-              "RelativeToolTip": "Billetera_Smart\\Content\\Site.css",
-              "ViewState": "AgIAAIEAAAAAAAAAAAAnwLEAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-10T15:43:54.23Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\Documents\\Visual Studio\\Billetera_Smart\\Billetera_Smart\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Billetera_Smart\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\Documents\\Visual Studio\\Billetera_Smart\\Billetera_Smart\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Billetera_Smart\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFsAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-10T05:31:33.669Z",
-              "EditorCaption": ""
             }
           ]
         }
