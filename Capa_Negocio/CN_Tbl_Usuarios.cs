@@ -10,11 +10,11 @@ namespace Capa_Negocio
 {
     public class CN_Tbl_Usuarios
     {
-        private CD_Tbl_Usuarios objCapaDAto = new CD_Tbl_Usuarios();
+        private CD_Tbl_Usuarios objCapaDato = new CD_Tbl_Usuarios();
 
         public List<Tbl_Usuarios> Listar()
         {
-            return objCapaDAto.Listar();
+            return objCapaDato.Listar();
         }
     }
 }

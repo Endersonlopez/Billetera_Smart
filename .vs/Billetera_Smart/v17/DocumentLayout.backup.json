@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Enderson\\source\\repos\\Endersonlopez\\Billetera_Smart\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3F533-D9CA-427A-895E-37B0B4C75E25}|Billetera_Smart\\Capa_Administrador.csproj|c:\\users\\enderson\\source\\repos\\endersonlopez\\billetera_smart\\billetera_smart\\views\\home\\usuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48A3F533-D9CA-427A-895E-37B0B4C75E25}|Billetera_Smart\\Capa_Administrador.csproj|solutionrelative:billetera_smart\\views\\home\\usuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3F533-D9CA-427A-895E-37B0B4C75E25}|Billetera_Smart\\Capa_Administrador.csproj|c:\\users\\enderson\\source\\repos\\endersonlopez\\billetera_smart\\billetera_smart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3F533-D9CA-427A-895E-37B0B4C75E25}|Billetera_Smart\\Capa_Administrador.csproj|solutionrelative:billetera_smart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAEC79F-169E-4BDA-925A-03FBD2AEA141}|Capa_Negocio\\Capa_Negocio.csproj|c:\\users\\enderson\\source\\repos\\endersonlopez\\billetera_smart\\capa_negocio\\cn_tbl_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAEC79F-169E-4BDA-925A-03FBD2AEA141}|Capa_Negocio\\Capa_Negocio.csproj|solutionrelative:capa_negocio\\cn_tbl_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3F533-D9CA-427A-895E-37B0B4C75E25}|Billetera_Smart\\Capa_Administrador.csproj|c:\\users\\enderson\\source\\repos\\endersonlopez\\billetera_smart\\billetera_smart\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{48A3F533-D9CA-427A-895E-37B0B4C75E25}|Billetera_Smart\\Capa_Administrador.csproj|solutionrelative:billetera_smart\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +39,66 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Usuarios.cshtml",
+              "DocumentMoniker": "C:\\Users\\Enderson\\source\\repos\\Endersonlopez\\Billetera_Smart\\Billetera_Smart\\Views\\Home\\Usuarios.cshtml",
+              "RelativeDocumentMoniker": "Billetera_Smart\\Views\\Home\\Usuarios.cshtml",
+              "ToolTip": "C:\\Users\\Enderson\\source\\repos\\Endersonlopez\\Billetera_Smart\\Billetera_Smart\\Views\\Home\\Usuarios.cshtml",
+              "RelativeToolTip": "Billetera_Smart\\Views\\Home\\Usuarios.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T05:46:19.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Enderson\\source\\repos\\Endersonlopez\\Billetera_Smart\\Billetera_Smart\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Billetera_Smart\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Enderson\\source\\repos\\Endersonlopez\\Billetera_Smart\\Billetera_Smart\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Billetera_Smart\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T04:53:30.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CN_Tbl_Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Enderson\\source\\repos\\Endersonlopez\\Billetera_Smart\\Capa_Negocio\\CN_Tbl_Usuarios.cs",
+              "RelativeDocumentMoniker": "Capa_Negocio\\CN_Tbl_Usuarios.cs",
+              "ToolTip": "C:\\Users\\Enderson\\source\\repos\\Endersonlopez\\Billetera_Smart\\Capa_Negocio\\CN_Tbl_Usuarios.cs",
+              "RelativeToolTip": "Capa_Negocio\\CN_Tbl_Usuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T05:18:12.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Enderson\\source\\repos\\Endersonlopez\\Billetera_Smart\\Billetera_Smart\\Web.config",
+              "RelativeDocumentMoniker": "Billetera_Smart\\Web.config",
+              "ToolTip": "C:\\Users\\Enderson\\source\\repos\\Endersonlopez\\Billetera_Smart\\Billetera_Smart\\Web.config",
+              "RelativeToolTip": "Billetera_Smart\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-16T05:00:44.73Z",
+              "EditorCaption": ""
             }
           ]
         }

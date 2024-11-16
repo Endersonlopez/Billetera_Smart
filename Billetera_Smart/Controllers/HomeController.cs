@@ -21,6 +21,8 @@ namespace Billetera_Smart.Controllers
             return View();
         }
 
+        [HttpGet]
+
         public JsonResult ListarUsuarios()
         {
             List<Tbl_Usuarios> oLista = new List<Tbl_Usuarios>();
